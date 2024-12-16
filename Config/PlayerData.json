@@ -1,0 +1,32 @@
+{
+  "Uid": 101375,
+  "Nickname": "群星",
+  "Level": 70,
+  "Exp": 0,
+  "Stamina": 240,
+  "Mcoin": 999999999,
+  "Hcoin": 999999999,
+  "Scoin": 999999999,
+  "WorldLevel": 6,
+  "Avatar1": 1402,
+  "Avatar2": 1401,
+  "Avatar3": 8007,
+  "Avatar4": 1304,
+  "LastWorldId": 401,
+  "PlaneID": 10305,
+  "FloorId": 10305001,
+  "EntryId": 1030501,
+  "PlaneType": 1,
+  "Pos": {
+    "X": -4560,
+    "Y": 1613,
+    "Z": -403337
+  },
+  "Rot": {
+    "X": 0,
+    "Y": 147924,
+    "Z": 0
+  },
+  "BaseType": 8007,
+  "Mar7thType": 1224
+}
