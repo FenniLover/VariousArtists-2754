@@ -16,7 +16,7 @@
 ## Support:
 
 > Client region: CN</br>
-> Game Version: 2.7.5X</br>
+> Game Version: 2.7.54</br>
 
 # 使用&安装
 
